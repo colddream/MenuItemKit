@@ -18,7 +18,7 @@ Add this repo URL to your Swift package dependencies.
 ### CocoaPods
 
 ```ruby
-pod 'MenuItemKit', '~> 4.0.0'
+pod 'MenuItemKitForked', '~> 4.0.0'
 ```
 
 ### Xcode subproject
